@@ -4,7 +4,7 @@ variable "ami_id" {
 
 variable "instance_type" {
   description = "The instance type for the EC2 instance"
-  default     = "t2.micro"
+  
 }
 
 variable "key_pair" {
