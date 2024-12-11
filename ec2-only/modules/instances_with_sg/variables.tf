@@ -1,6 +1,6 @@
 variable "instance_count" {
   description = "Number of instances to create"
-  default     = 2
+  default     = 1
 }
 
 variable "region" {
