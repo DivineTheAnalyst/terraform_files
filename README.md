@@ -1,6 +1,6 @@
 # Terraform Files Repository
 
-Welcome to the **Kavetec Terraform Files** repository! This repository contains Terraform configurations for various AWS resources, structured for ease of use and modularity.
+Welcome to my **Terraform Files** repository! This repository contains Terraform configurations for various AWS resources, structured for ease of use and modularity.
 
 ## 📌 Repository Overview
 This repository includes Terraform scripts to automate the provisioning of AWS infrastructure. The configurations are grouped into different directories based on their purpose.
@@ -22,7 +22,7 @@ Before using these Terraform configurations, ensure you have:
 ### Usage
 1. Clone the repository:
    ```sh
-   git clone https://github.com/Kavetec/terraform-files.git
+   git clone https://github.com/DivineTheAnalyst/terraform-files.git
    cd terraform-files
    ```
 2. Navigate to the desired directory (e.g., `ec2-eip`):
